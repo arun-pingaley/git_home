@@ -1,3 +1,3 @@
 This is a totally cool project!
 
-This is some addition
+This is just some addition
